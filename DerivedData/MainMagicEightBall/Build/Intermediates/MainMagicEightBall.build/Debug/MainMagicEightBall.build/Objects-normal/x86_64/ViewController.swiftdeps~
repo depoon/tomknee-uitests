@@ -1,0 +1,382 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C18MainMagicEightBall14ViewController"
+provides-member:
+- ["C18MainMagicEightBall14ViewController", ""]
+provides-dynamic-lookup:
+- "adviceLabel"
+- "ballImageView"
+- "handleBallClick"
+- "handleWelcome"
+- "nameTextField"
+- "representedObject"
+- "viewDidLoad"
+- "welcomeLabel"
+depends-top-level:
+- "AnyObject"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "NSImage"
+- "NSImageView"
+- "NSTextField"
+- "NSViewController"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+- "ViewController"
+depends-member:
+- !private ["Ps9AnyObject", "NSImage"]
+- !private ["Ps9AnyObject", "adviceLabel"]
+- !private ["Ps9AnyObject", "ballImageView"]
+- !private ["Ps9AnyObject", "image"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "isHidden"]
+- !private ["Ps9AnyObject", "nameTextField"]
+- !private ["Ps9AnyObject", "stringValue"]
+- !private ["Ps9AnyObject", "viewDidLoad"]
+- !private ["Ps9AnyObject", "welcomeLabel"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps7CVarArg", "NSImage"]
+- !private ["Ps7CVarArg", "adviceLabel"]
+- !private ["Ps7CVarArg", "ballImageView"]
+- !private ["Ps7CVarArg", "image"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "isHidden"]
+- !private ["Ps7CVarArg", "nameTextField"]
+- !private ["Ps7CVarArg", "stringValue"]
+- !private ["Ps7CVarArg", "viewDidLoad"]
+- !private ["Ps7CVarArg", "welcomeLabel"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "NSImage"]
+- !private ["Ps28CustomDebugStringConvertible", "adviceLabel"]
+- !private ["Ps28CustomDebugStringConvertible", "ballImageView"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "isHidden"]
+- !private ["Ps28CustomDebugStringConvertible", "nameTextField"]
+- !private ["Ps28CustomDebugStringConvertible", "stringValue"]
+- !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- !private ["Ps28CustomDebugStringConvertible", "welcomeLabel"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "NSImage"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "adviceLabel"]
+- !private ["Ps23CustomStringConvertible", "ballImageView"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "isHidden"]
+- !private ["Ps23CustomStringConvertible", "nameTextField"]
+- !private ["Ps23CustomStringConvertible", "stringValue"]
+- !private ["Ps23CustomStringConvertible", "viewDidLoad"]
+- !private ["Ps23CustomStringConvertible", "welcomeLabel"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "NSImage"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "adviceLabel"]
+- !private ["Ps9Equatable", "ballImageView"]
+- !private ["Ps9Equatable", "image"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "isHidden"]
+- !private ["Ps9Equatable", "nameTextField"]
+- !private ["Ps9Equatable", "stringValue"]
+- !private ["Ps9Equatable", "viewDidLoad"]
+- !private ["Ps9Equatable", "welcomeLabel"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "NSImage"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "adviceLabel"]
+- !private ["Ps8Hashable", "ballImageView"]
+- !private ["Ps8Hashable", "image"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "isHidden"]
+- !private ["Ps8Hashable", "nameTextField"]
+- !private ["Ps8Hashable", "stringValue"]
+- !private ["Ps8Hashable", "viewDidLoad"]
+- !private ["Ps8Hashable", "welcomeLabel"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo15NSAccessibility", "image"]
+- !private ["PSo15NSAccessibility", "isHidden"]
+- !private ["PSo15NSAccessibility", "stringValue"]
+- !private ["PSo30NSAccessibilityElementProtocol", "image"]
+- !private ["PSo30NSAccessibilityElementProtocol", "isHidden"]
+- !private ["PSo30NSAccessibilityElementProtocol", "stringValue"]
+- !private ["PSo20NSAccessibilityImage", "image"]
+- !private ["PSo34NSAccessibilityNavigableStaticText", "isHidden"]
+- !private ["PSo34NSAccessibilityNavigableStaticText", "stringValue"]
+- !private ["PSo25NSAccessibilityStaticText", "isHidden"]
+- !private ["PSo25NSAccessibilityStaticText", "stringValue"]
+- !private ["PSo29NSAnimatablePropertyContainer", "image"]
+- !private ["PSo29NSAnimatablePropertyContainer", "isHidden"]
+- !private ["PSo29NSAnimatablePropertyContainer", "stringValue"]
+- !private ["PSo25NSAppearanceCustomization", "image"]
+- !private ["PSo25NSAppearanceCustomization", "isHidden"]
+- !private ["PSo25NSAppearanceCustomization", "stringValue"]
+- !private ["PSo8NSCoding", "NSImage"]
+- !private ["PSo8NSCoding", "adviceLabel"]
+- !private ["PSo8NSCoding", "ballImageView"]
+- !private ["PSo8NSCoding", "image"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "isHidden"]
+- !private ["PSo8NSCoding", "nameTextField"]
+- !private ["PSo8NSCoding", "stringValue"]
+- !private ["PSo8NSCoding", "viewDidLoad"]
+- !private ["PSo8NSCoding", "welcomeLabel"]
+- ["PSo8NSCoding", ""]
+- !private ["CSo9NSControl", "image"]
+- !private ["CSo9NSControl", "isHidden"]
+- !private ["CSo9NSControl", "stringValue"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo21NSDraggingDestination", "image"]
+- !private ["PSo21NSDraggingDestination", "isHidden"]
+- !private ["PSo21NSDraggingDestination", "stringValue"]
+- !private ["PSo26NSExtensionRequestHandling", "NSImage"]
+- !private ["PSo26NSExtensionRequestHandling", "adviceLabel"]
+- !private ["PSo26NSExtensionRequestHandling", "ballImageView"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "nameTextField"]
+- !private ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- !private ["PSo26NSExtensionRequestHandling", "welcomeLabel"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["CSo7NSImage", "init"]
+- !private ["CSo11NSImageView", "image"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AnyObject"]
+- !private ["CSo8NSObject", "NSImage"]
+- ["CSo8NSObject", "NSImageView"]
+- ["CSo8NSObject", "NSTextField"]
+- ["CSo8NSObject", "adviceLabel"]
+- ["CSo8NSObject", "ballImageView"]
+- ["CSo8NSObject", "handleBallClick"]
+- ["CSo8NSObject", "handleWelcome"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "isHidden"]
+- ["CSo8NSObject", "nameTextField"]
+- ["CSo8NSObject", "representedObject"]
+- !private ["CSo8NSObject", "stringValue"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["CSo8NSObject", "welcomeLabel"]
+- !private ["PSo16NSObjectProtocol", "NSImage"]
+- !private ["PSo16NSObjectProtocol", "adviceLabel"]
+- !private ["PSo16NSObjectProtocol", "ballImageView"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "isHidden"]
+- !private ["PSo16NSObjectProtocol", "nameTextField"]
+- !private ["PSo16NSObjectProtocol", "stringValue"]
+- !private ["PSo16NSObjectProtocol", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "welcomeLabel"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo19NSPasteboardReading", "init"]
+- !private ["PSo19NSPasteboardWriting", "init"]
+- ["CSo11NSResponder", "AnyObject"]
+- !private ["CSo11NSResponder", "NSImage"]
+- ["CSo11NSResponder", "NSImageView"]
+- ["CSo11NSResponder", "NSTextField"]
+- ["CSo11NSResponder", "adviceLabel"]
+- ["CSo11NSResponder", "ballImageView"]
+- ["CSo11NSResponder", "handleBallClick"]
+- ["CSo11NSResponder", "handleWelcome"]
+- !private ["CSo11NSResponder", "image"]
+- ["CSo11NSResponder", "init"]
+- !private ["CSo11NSResponder", "isHidden"]
+- ["CSo11NSResponder", "nameTextField"]
+- ["CSo11NSResponder", "representedObject"]
+- !private ["CSo11NSResponder", "stringValue"]
+- ["CSo11NSResponder", "viewDidLoad"]
+- ["CSo11NSResponder", "welcomeLabel"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo17NSSeguePerforming", "NSImage"]
+- !private ["PSo17NSSeguePerforming", "adviceLabel"]
+- !private ["PSo17NSSeguePerforming", "ballImageView"]
+- !private ["PSo17NSSeguePerforming", "init"]
+- !private ["PSo17NSSeguePerforming", "nameTextField"]
+- !private ["PSo17NSSeguePerforming", "viewDidLoad"]
+- !private ["PSo17NSSeguePerforming", "welcomeLabel"]
+- ["PSo17NSSeguePerforming", ""]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo11NSTextField", "isHidden"]
+- !private ["CSo11NSTextField", "stringValue"]
+- !private ["PSo18NSTouchBarProvider", "NSImage"]
+- !private ["PSo18NSTouchBarProvider", "adviceLabel"]
+- !private ["PSo18NSTouchBarProvider", "ballImageView"]
+- !private ["PSo18NSTouchBarProvider", "image"]
+- !private ["PSo18NSTouchBarProvider", "init"]
+- !private ["PSo18NSTouchBarProvider", "isHidden"]
+- !private ["PSo18NSTouchBarProvider", "nameTextField"]
+- !private ["PSo18NSTouchBarProvider", "stringValue"]
+- !private ["PSo18NSTouchBarProvider", "viewDidLoad"]
+- !private ["PSo18NSTouchBarProvider", "welcomeLabel"]
+- ["PSo18NSTouchBarProvider", ""]
+- !private ["PSo33NSUserInterfaceItemIdentification", "NSImage"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "adviceLabel"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "ballImageView"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "image"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "init"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "isHidden"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "nameTextField"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "stringValue"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "viewDidLoad"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "welcomeLabel"]
+- ["PSo33NSUserInterfaceItemIdentification", ""]
+- !private ["PSo26NSUserInterfaceValidations", "isHidden"]
+- !private ["PSo26NSUserInterfaceValidations", "stringValue"]
+- !private ["CSo6NSView", "image"]
+- !private ["CSo6NSView", "isHidden"]
+- !private ["CSo6NSView", "stringValue"]
+- ["CSo16NSViewController", "AnyObject"]
+- !private ["CSo16NSViewController", "NSImage"]
+- ["CSo16NSViewController", "NSImageView"]
+- ["CSo16NSViewController", "NSTextField"]
+- ["CSo16NSViewController", "adviceLabel"]
+- ["CSo16NSViewController", "ballImageView"]
+- ["CSo16NSViewController", "handleBallClick"]
+- ["CSo16NSViewController", "handleWelcome"]
+- ["CSo16NSViewController", "init"]
+- ["CSo16NSViewController", "nameTextField"]
+- ["CSo16NSViewController", "representedObject"]
+- ["CSo16NSViewController", "viewDidLoad"]
+- ["CSo16NSViewController", "welcomeLabel"]
+- ["CSo16NSViewController", ""]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["C18MainMagicEightBall14ViewController", "AnyObject"]
+- !private ["C18MainMagicEightBall14ViewController", "NSImage"]
+- ["C18MainMagicEightBall14ViewController", "NSImageView"]
+- ["C18MainMagicEightBall14ViewController", "NSTextField"]
+- ["C18MainMagicEightBall14ViewController", "adviceLabel"]
+- ["C18MainMagicEightBall14ViewController", "ballImageView"]
+- ["C18MainMagicEightBall14ViewController", "deinit"]
+- ["C18MainMagicEightBall14ViewController", "handleBallClick"]
+- ["C18MainMagicEightBall14ViewController", "handleWelcome"]
+- ["C18MainMagicEightBall14ViewController", "init"]
+- ["C18MainMagicEightBall14ViewController", "nameTextField"]
+- ["C18MainMagicEightBall14ViewController", "representedObject"]
+- ["C18MainMagicEightBall14ViewController", "viewDidLoad"]
+- ["C18MainMagicEightBall14ViewController", "welcomeLabel"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "image"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "isHidden"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "stringValue"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByImageLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "NSImage"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "adviceLabel"]
+- !private ["Ps9_Hashable", "ballImageView"]
+- !private ["Ps9_Hashable", "image"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "isHidden"]
+- !private ["Ps9_Hashable", "nameTextField"]
+- !private ["Ps9_Hashable", "stringValue"]
+- !private ["Ps9_Hashable", "viewDidLoad"]
+- !private ["Ps9_Hashable", "welcomeLabel"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "PSo15NSAccessibility"
+- !private "PSo30NSAccessibilityElementProtocol"
+- !private "PSo20NSAccessibilityImage"
+- !private "PSo34NSAccessibilityNavigableStaticText"
+- !private "PSo25NSAccessibilityStaticText"
+- !private "PSo29NSAnimatablePropertyContainer"
+- !private "PSo25NSAppearanceCustomization"
+- "PSo8NSCoding"
+- !private "CSo9NSControl"
+- !private "PSo9NSCopying"
+- !private "PSo21NSDraggingDestination"
+- "PSo26NSExtensionRequestHandling"
+- !private "CSo7NSImage"
+- !private "CSo11NSImageView"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo19NSPasteboardReading"
+- !private "PSo19NSPasteboardWriting"
+- "CSo11NSResponder"
+- !private "PSo14NSSecureCoding"
+- "PSo17NSSeguePerforming"
+- !private "CSo8NSString"
+- !private "CSo11NSTextField"
+- "PSo18NSTouchBarProvider"
+- "PSo33NSUserInterfaceItemIdentification"
+- !private "PSo26NSUserInterfaceValidations"
+- !private "CSo6NSView"
+- "CSo16NSViewController"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "C18MainMagicEightBall14ViewController"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByImageLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+interface-hash: "d72bc734e37451a4b4c6d4d1935ee65b"

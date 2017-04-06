@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "0e0ee561180497277ed44a023964dcc7"
+build_time: [544785370, 981096000]
+inputs:
+  "/Users/thomasknee/Documents/Xcode Projects/MainMagicEightBall/MainMagicEightBall/ViewController.swift": [544740632, 0]
+  "/Users/thomasknee/Documents/Xcode Projects/MainMagicEightBall/MainMagicEightBall/AppDelegate.swift": [544723994, 0]

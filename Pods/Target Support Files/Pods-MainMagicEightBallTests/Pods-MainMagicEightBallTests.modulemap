@@ -1,0 +1,6 @@
+framework module Pods_MainMagicEightBallTests {
+  umbrella header "Pods-MainMagicEightBallTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
