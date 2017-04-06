@@ -60,8 +60,20 @@ class MagicEightUITests: XCTestCase {
         let ball2 = window.images["magic8ball"]
         XCTAssertEqual(ball2.isHittable, true)
         XCTAssertEqual(ball1.exists, false)
-       
-
+        XCTAssertEqual(advice1.exists, true)
+        
+        let adviceList = [
+            "Yes",
+            "No",
+            "Tom says 'do it!'",
+            "Maybe",
+            "Try again later",
+            "How can I know?",
+            "Totally",
+            "Never",
+            ]
+        
+        XCTAssert(adviceList.contains(advice1.value as! String))
         
         
         

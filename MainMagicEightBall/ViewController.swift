@@ -9,7 +9,7 @@
 import Cocoa
 
 class ViewController: NSViewController {
-    var adviceList = [
+    let adviceList = [
         "Yes",
         "No",
         "Tom says 'do it!'",

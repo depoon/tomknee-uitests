@@ -691,7 +691,7 @@
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
                             <stackView distribution="fill" orientation="vertical" alignment="centerX" spacing="20" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Xhh-u0-5fZ">
-                                <rect key="frame" x="75.5" y="186" width="199" height="264"/>
+                                <rect key="frame" x="75" y="186" width="199" height="264"/>
                                 <subviews>
                                     <stackView distribution="fill" orientation="horizontal" alignment="top" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="LXc-bR-drG">
                                         <rect key="frame" x="3.5" y="242" width="192" height="22"/>
@@ -761,12 +761,13 @@
                                 </customSpacing>
                             </stackView>
                             <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" allowsCharacterPickerTouchBarItem="NO" preferredMaxLayoutWidth="75" translatesAutoresizingMaskIntoConstraints="NO" id="BRF-y1-caM">
-                                <rect key="frame" x="140" y="228" width="70" height="72"/>
+                                <rect key="frame" x="139.5" y="228" width="70" height="72"/>
                                 <textFieldCell key="cell" controlSize="mini" sendsActionOnEndEditing="YES" alignment="center" title="Piece of Advice" id="zZO-zy-jqk">
                                     <font key="font" metaFont="system" size="20"/>
                                     <color key="textColor" name="keyboardFocusIndicatorColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
+                                <accessibility description="PieceOfAdviceLabel" identifier="PieceOfAdviceLabel"/>
                             </textField>
                         </subviews>
                         <constraints>
