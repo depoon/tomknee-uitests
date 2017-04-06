@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		6791CA039046628265FE7868 /* Pods_MainMagicEightBallUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8DFBCCAA0A99E7D8B19C0F22 /* Pods_MainMagicEightBallUITests.framework */; };
 		6DF0CCD89E844202BCE2C669 /* Pods_MainMagicEightBall.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 147172C67BE83756FE20AE27 /* Pods_MainMagicEightBall.framework */; };
+		874A77BC1E96A7F200FD4AB4 /* MainMagicEightSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874A77BB1E96A7F200FD4AB4 /* MainMagicEightSteps.swift */; };
 		87B469511E954F1A0061E8E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87B469501E954F1A0061E8E5 /* AppDelegate.swift */; };
 		87B469531E954F1A0061E8E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87B469521E954F1A0061E8E5 /* ViewController.swift */; };
 		87B469551E954F1A0061E8E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87B469541E954F1A0061E8E5 /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 		5397729AA67D6D1E5677338C /* Pods-MainMagicEightBall.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainMagicEightBall.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MainMagicEightBall/Pods-MainMagicEightBall.debug.xcconfig"; sourceTree = "<group>"; };
 		6A94B1FF05F35F948B50C50F /* Pods-MainMagicEightBallTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainMagicEightBallTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MainMagicEightBallTests/Pods-MainMagicEightBallTests.release.xcconfig"; sourceTree = "<group>"; };
 		6ECCC9D1C4F5506932371FFB /* Pods-MainMagicEightBallUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainMagicEightBallUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MainMagicEightBallUITests/Pods-MainMagicEightBallUITests.release.xcconfig"; sourceTree = "<group>"; };
+		874A77BB1E96A7F200FD4AB4 /* MainMagicEightSteps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainMagicEightSteps.swift; path = StepDefinitions/MainMagicEightSteps.swift; sourceTree = "<group>"; };
 		87B4694D1E954F1A0061E8E5 /* MainMagicEightBall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MainMagicEightBall.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87B469501E954F1A0061E8E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		87B469521E954F1A0061E8E5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -110,6 +112,21 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		874A77B31E969E4B00FD4AB4 /* StepDefinitions */ = {
+			isa = PBXGroup;
+			children = (
+				874A77BB1E96A7F200FD4AB4 /* MainMagicEightSteps.swift */,
+			);
+			name = StepDefinitions;
+			sourceTree = "<group>";
+		};
+		874A77B41E969E5F00FD4AB4 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Screens;
+			sourceTree = "<group>";
+		};
 		87B469441E954F1A0061E8E5 = {
 			isa = PBXGroup;
 			children = (
@@ -156,6 +173,8 @@
 		87B4696C1E954F1A0061E8E5 /* MainMagicEightBallUITests */ = {
 			isa = PBXGroup;
 			children = (
+				874A77B41E969E5F00FD4AB4 /* Screens */,
+				874A77B31E969E4B00FD4AB4 /* StepDefinitions */,
 				87B4696D1E954F1A0061E8E5 /* MainMagicEightBallUITests.swift */,
 				87B4696F1E954F1A0061E8E5 /* Info.plist */,
 			);
@@ -462,6 +481,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				874A77BC1E96A7F200FD4AB4 /* MainMagicEightSteps.swift in Sources */,
 				87B4696E1E954F1A0061E8E5 /* MainMagicEightBallUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
