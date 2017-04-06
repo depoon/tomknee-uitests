@@ -13,7 +13,8 @@ class MainMagicEightBallSteps: StepDefiner {
     
     override func defineSteps() {
         step("I click the Welcome button") {
-            let btnOne = XCUIApplication().windows["Window"].buttons["Welcome"]
+            let window = XCUIApplication().windows["Window"]
+            let btnOne = window.buttons["Welcome"]
             btnOne.click()
         }
     }
