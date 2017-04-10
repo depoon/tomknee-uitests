@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		6791CA039046628265FE7868 /* Pods_MainMagicEightBallUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8DFBCCAA0A99E7D8B19C0F22 /* Pods_MainMagicEightBallUITests.framework */; };
-		6DF0CCD89E844202BCE2C669 /* Pods_MainMagicEightBall.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 147172C67BE83756FE20AE27 /* Pods_MainMagicEightBall.framework */; };
 		874A77BC1E96A7F200FD4AB4 /* MainMagicEightSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874A77BB1E96A7F200FD4AB4 /* MainMagicEightSteps.swift */; };
 		87B469511E954F1A0061E8E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87B469501E954F1A0061E8E5 /* AppDelegate.swift */; };
 		87B469531E954F1A0061E8E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87B469521E954F1A0061E8E5 /* ViewController.swift */; };
@@ -16,7 +15,6 @@
 		87B469581E954F1A0061E8E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87B469561E954F1A0061E8E5 /* Main.storyboard */; };
 		87B469631E954F1A0061E8E5 /* MainMagicEightBallTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87B469621E954F1A0061E8E5 /* MainMagicEightBallTests.swift */; };
 		87B4696E1E954F1A0061E8E5 /* MainMagicEightBallUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87B4696D1E954F1A0061E8E5 /* MainMagicEightBallUITests.swift */; };
-		88568D7FB3FE1B191BF47F9A /* Pods_MainMagicEightBallTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B75E4BF6D2FE85CFB6DA4A29 /* Pods_MainMagicEightBallTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,8 +37,6 @@
 /* Begin PBXFileReference section */
 		147172C67BE83756FE20AE27 /* Pods_MainMagicEightBall.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MainMagicEightBall.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3361D3C6DCB86B205A9FF203 /* Pods-MainMagicEightBallUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainMagicEightBallUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MainMagicEightBallUITests/Pods-MainMagicEightBallUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		5397729AA67D6D1E5677338C /* Pods-MainMagicEightBall.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainMagicEightBall.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MainMagicEightBall/Pods-MainMagicEightBall.debug.xcconfig"; sourceTree = "<group>"; };
-		6A94B1FF05F35F948B50C50F /* Pods-MainMagicEightBallTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainMagicEightBallTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MainMagicEightBallTests/Pods-MainMagicEightBallTests.release.xcconfig"; sourceTree = "<group>"; };
 		6ECCC9D1C4F5506932371FFB /* Pods-MainMagicEightBallUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainMagicEightBallUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MainMagicEightBallUITests/Pods-MainMagicEightBallUITests.release.xcconfig"; sourceTree = "<group>"; };
 		874A77BB1E96A7F200FD4AB4 /* MainMagicEightSteps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainMagicEightSteps.swift; path = StepDefinitions/MainMagicEightSteps.swift; sourceTree = "<group>"; };
 		87B4694D1E954F1A0061E8E5 /* MainMagicEightBall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MainMagicEightBall.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -56,9 +52,7 @@
 		87B4696D1E954F1A0061E8E5 /* MainMagicEightBallUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMagicEightBallUITests.swift; sourceTree = "<group>"; };
 		87B4696F1E954F1A0061E8E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8DFBCCAA0A99E7D8B19C0F22 /* Pods_MainMagicEightBallUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MainMagicEightBallUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AE7EF38610E02C243E14309F /* Pods-MainMagicEightBallTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainMagicEightBallTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MainMagicEightBallTests/Pods-MainMagicEightBallTests.debug.xcconfig"; sourceTree = "<group>"; };
 		B75E4BF6D2FE85CFB6DA4A29 /* Pods_MainMagicEightBallTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MainMagicEightBallTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FCADA58B1475B9A53897E6F9 /* Pods-MainMagicEightBall.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MainMagicEightBall.release.xcconfig"; path = "Pods/Target Support Files/Pods-MainMagicEightBall/Pods-MainMagicEightBall.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +60,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6DF0CCD89E844202BCE2C669 /* Pods_MainMagicEightBall.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,7 +67,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88568D7FB3FE1B191BF47F9A /* Pods_MainMagicEightBallTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -102,10 +94,6 @@
 		6B7E3FEAE232DD61EBDB92A0 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				5397729AA67D6D1E5677338C /* Pods-MainMagicEightBall.debug.xcconfig */,
-				FCADA58B1475B9A53897E6F9 /* Pods-MainMagicEightBall.release.xcconfig */,
-				AE7EF38610E02C243E14309F /* Pods-MainMagicEightBallTests.debug.xcconfig */,
-				6A94B1FF05F35F948B50C50F /* Pods-MainMagicEightBallTests.release.xcconfig */,
 				3361D3C6DCB86B205A9FF203 /* Pods-MainMagicEightBallUITests.debug.xcconfig */,
 				6ECCC9D1C4F5506932371FFB /* Pods-MainMagicEightBallUITests.release.xcconfig */,
 			);
@@ -188,12 +176,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 87B469721E954F1A0061E8E5 /* Build configuration list for PBXNativeTarget "MainMagicEightBall" */;
 			buildPhases = (
-				74B1AB9B67AE38A3910F5D04 /* [CP] Check Pods Manifest.lock */,
 				87B469491E954F1A0061E8E5 /* Sources */,
 				87B4694A1E954F1A0061E8E5 /* Frameworks */,
 				87B4694B1E954F1A0061E8E5 /* Resources */,
-				DCCF96DC01A296E9758659AB /* [CP] Embed Pods Frameworks */,
-				838751C820D48E1D6BDB7CFF /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -208,12 +193,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 87B469751E954F1A0061E8E5 /* Build configuration list for PBXNativeTarget "MainMagicEightBallTests" */;
 			buildPhases = (
-				FBD5B3830EFDCBCA3F8B0BA3 /* [CP] Check Pods Manifest.lock */,
 				87B4695A1E954F1A0061E8E5 /* Sources */,
 				87B4695B1E954F1A0061E8E5 /* Frameworks */,
 				87B4695C1E954F1A0061E8E5 /* Resources */,
-				01DBC0B57B7FD3A3B265DEC2 /* [CP] Embed Pods Frameworks */,
-				930EAC4850E2F1EC69EBF679 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -258,7 +240,6 @@
 				TargetAttributes = {
 					87B4694C1E954F1A0061E8E5 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = 5DX28DMRKD;
 						ProvisioningStyle = Automatic;
 					};
 					87B4695D1E954F1A0061E8E5 = {
@@ -269,7 +250,6 @@
 					};
 					87B469681E954F1A0061E8E5 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = 5DX28DMRKD;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 87B4694C1E954F1A0061E8E5;
 					};
@@ -322,21 +302,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		01DBC0B57B7FD3A3B265DEC2 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MainMagicEightBallTests/Pods-MainMagicEightBallTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		208DFEAD1B558002E96770D4 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -350,36 +315,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MainMagicEightBallUITests/Pods-MainMagicEightBallUITests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		74B1AB9B67AE38A3910F5D04 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		838751C820D48E1D6BDB7CFF /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MainMagicEightBall/Pods-MainMagicEightBall-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		88C3D70C53FCAF4BCEAD302C /* [CP] Check Pods Manifest.lock */ = {
@@ -397,21 +332,6 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		930EAC4850E2F1EC69EBF679 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MainMagicEightBallTests/Pods-MainMagicEightBallTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		9D472D1EB0C9EBD64FCDF2AD /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -425,36 +345,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MainMagicEightBallUITests/Pods-MainMagicEightBallUITests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		DCCF96DC01A296E9758659AB /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MainMagicEightBall/Pods-MainMagicEightBall-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		FBD5B3830EFDCBCA3F8B0BA3 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -565,7 +455,6 @@
 		};
 		87B469711E954F1A0061E8E5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCADA58B1475B9A53897E6F9 /* Pods-MainMagicEightBall.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -615,14 +504,14 @@
 		};
 		87B469731E954F1A0061E8E5 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5397729AA67D6D1E5677338C /* Pods-MainMagicEightBall.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 5DX28DMRKD;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MainMagicEightBall/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				OTHER_LDFLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thomasknee.MainMagicEightBall;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -633,14 +522,14 @@
 		};
 		87B469741E954F1A0061E8E5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCADA58B1475B9A53897E6F9 /* Pods-MainMagicEightBall.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 5DX28DMRKD;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MainMagicEightBall/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				OTHER_LDFLAGS = "";
 				"OTHER_LDFLAGS[arch=*]" = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thomasknee.MainMagicEightBall;
@@ -652,7 +541,6 @@
 		};
 		87B469761E954F1A0061E8E5 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AE7EF38610E02C243E14309F /* Pods-MainMagicEightBallTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -671,7 +559,6 @@
 		};
 		87B469771E954F1A0061E8E5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6A94B1FF05F35F948B50C50F /* Pods-MainMagicEightBallTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
